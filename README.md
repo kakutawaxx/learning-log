@@ -1,6 +1,8 @@
 # learning-log
 
 This repository is a log of my daily learning.
+Updated via VSCode on WSL.
+
 
 ## Contents
 - Python basics
